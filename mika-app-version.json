@@ -1,5 +1,10 @@
 {
-  "latest_version_android": "2.0.2",
-  "latest_version_ios": "2.0.2",
-  "test": "test"
+  "android": {
+    "latest_version_android": "2.0.1",
+    "upgrade_mandatory": "true"
+  },
+  "ios": {
+    "latest_version_ios": "2.0.1",
+    "upgrade_mandatory": "true"
+  }
 }
