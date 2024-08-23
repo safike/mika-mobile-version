@@ -5,6 +5,6 @@
   },
   "ios": {
     "latest_version": "2.1.2",
-    "upgrade_mandatory": "true"
+    "upgrade_mandatory": "false"
   }
 }
