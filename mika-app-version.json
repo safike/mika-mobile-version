@@ -1,6 +1,6 @@
 {
   "android": {
-    "latest_version": "2.1.1",
+    "latest_version": "2.1.0",
     "upgrade_mandatory": "true"
   },
   "ios": {
