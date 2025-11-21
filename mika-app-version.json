@@ -1,10 +1,10 @@
 {
   "android": {
-    "latest_version": "4.2.4",
+    "latest_version": "4.2.7",
     "upgrade_mandatory": "true"
   },
   "ios": {
-    "latest_version": "4.2.5",
+    "latest_version": "4.2.7",
     "upgrade_mandatory": "true"
   }
 }
